@@ -36,7 +36,7 @@ Happy Birthday ♡`,
     { src:"p5.jpg", caption:"good days" },
     { src:"p6.jpg", caption:"always" },
     { src:"p11.jpg", caption:"laughter" },
-    { src:"p10.jpg", caption:"forever" },
+    { src:"p12.jpg", caption:"forever" },
     { src:"p9.jpg", caption:"us" }
   ],
 
