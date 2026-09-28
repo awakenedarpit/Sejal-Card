@@ -11,10 +11,10 @@
 const CONFIG = {
 
   // Dayy of the month being celebrated (1–31)
-  day: 28,
+  day: 2,
 
   // The birthday person's name, shown on the memory wall and letter
-  name: "SHREYASI",
+  name: "SEJAL",
 
   // The letter message. Use \n for line breaks.
   message:
