@@ -29,15 +29,15 @@ Happy Birthday ♡`,
   // Nine memory-wall photos. Leave src empty ("") for a soft
   // placeholder card, or point it at an image URL / base64 string.
   photos:[
-    { src:"photos/p1.jpg", caption:"first memory" },
-    { src:"photos/p2.jpg", caption:"that day" },
-    { src:"photos/p3.jpg", caption:"favourite" },
-    { src:"photos/p4.jpg", caption:"together" },
-    { src:"photos/p5.jpg", caption:"good days" },
-    { src:"photos/p6.jpg", caption:"always" },
-    { src:"photos/p7.jpg", caption:"laughter" },
-    { src:"photos/p8.jpg", caption:"forever" },
-    { src:"photos/p9.jpg", caption:"us" }
+    { src:"p1.jpg", caption:"first memory" },
+    { src:"p2.jpg", caption:"that day" },
+    { src:"p3.jpg", caption:"favourite" },
+    { src:"p4.jpg", caption:"together" },
+    { src:"p5.jpg", caption:"good days" },
+    { src:"p6.jpg", caption:"always" },
+    { src:"p7.jpg", caption:"laughter" },
+    { src:"p8.jpg", caption:"forever" },
+    { src:"p9.jpg", caption:"us" }
   ],
 
   // Little floating words shown on the final surprise screen
