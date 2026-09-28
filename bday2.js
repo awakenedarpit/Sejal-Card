@@ -29,7 +29,7 @@ Happy Birthday ♡`,
   // Nine memory-wall photos. Leave src empty ("") for a soft
   // placeholder card, or point it at an image URL / base64 string.
   photos:[
-    { src:"p1.jpg", caption:"first memory" },
+    { src:"p1.jpg", caption:"full on masti" },
     { src:"p2.jpg", caption:"that day" },
     { src:"p3.jpg", caption:"favourite" },
     { src:"p4.jpg", caption:"together" },
